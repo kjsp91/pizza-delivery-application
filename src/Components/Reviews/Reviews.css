@@ -1,0 +1,10 @@
+.review{
+    color: white;
+    border: 2px solid white;
+    padding: 15px;
+    margin: 15px;
+}
+.parent{
+    display: flex;
+    justify-content: center;
+}

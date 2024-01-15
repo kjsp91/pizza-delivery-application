@@ -1,0 +1,29 @@
+.banner {
+    /* #030303 */
+    background-color: #020202;
+    display: flex;
+    color: whitesmoke;
+    font-family: 'Bungee Spice', sans-serif;
+  }
+  .banner .sect1{
+    font-size:x-large;
+    font-weight: bolder;
+    position: relative;
+    /* top: 40px;
+    margin: 20px; */
+    padding: 20px;
+    height: 0px;
+   
+  }
+  .banner .sect1 h1{
+    color: #a24119;
+    font-family: 'Yeseva One', serif;
+    font-size: 60px;
+  }
+  .banner img{
+    width: 800px;
+  }
+
+ 
+  
+  

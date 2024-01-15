@@ -1,0 +1,18 @@
+nav{
+    display: flex;
+    justify-content: center;
+}
+nav ul{
+    display: flex;
+    gap: 40px;
+    padding: 0px;
+  }
+  nav li{
+    list-style-type: none;
+    font-size: medium;
+    font-weight: bolder;
+  }
+nav li .link{
+    text-decoration: none;
+    color: whitesmoke;
+  }
